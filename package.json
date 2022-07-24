@@ -1,7 +1,7 @@
 {
     "name": "businesscard",
     "version": "0.1.0",
-    "homepage": "https://github.com/dillon-porter/react-business-card",
+    "homepage": "https://github.com/dillon-porter/react-business-card/",
     "private": true,
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.4",
