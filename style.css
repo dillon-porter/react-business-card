@@ -188,4 +188,7 @@ p {
         font-size: 10px;
         margin-bottom: 10px;
     }
+    .container {
+        height: 665px;
+    }
 }
